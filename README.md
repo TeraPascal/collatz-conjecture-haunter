@@ -1,4 +1,3 @@
-# collatz-conjecture-haunter
 This is an unproven numbersTheory problem that I made a code for just to fill my time.
 
 # Collatz Conjecture
